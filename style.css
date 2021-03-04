@@ -83,3 +83,7 @@ main {
     top: -10%;
     right: 10%;
 }
+
+.user img {
+    border-radius: 50%;
+}
